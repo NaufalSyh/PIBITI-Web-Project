@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+    .container-width {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .navbar-brand {
+        font-size: 1.2rem;
+    } }
